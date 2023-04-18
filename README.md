@@ -13,3 +13,7 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 Suba o projeto em um repositório Git remoto e coloque o link da imagem que subiu no Docker Hub.
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
+
+
+Para visualizar o resultado final execute:
+docker run aaoliveira/fcexperience-docker-go
